@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BaseProg3.master.cs" Inherits="Vistas.MaterPage.BaseProg3" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="Stylesheet" href="../Css/MenuCliente.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <input type="checkbox" id="btnMenu">
+            <label for="btnMenu"></label>
+            <nav class="menu">
+                <ul>
+                        <li><a href="../TiendaCliente.aspx">Tienda</a></li>
+                        <li><a href="../CarritoTienda.aspx">Carrito</a></li>
+                        <li><a href="../Cuenta.aspx">Cuenta</a></li>
+                        <li><a href="../Facturas.aspx">Facturas</a></li>
+                        
+                        <li><a href="../Login.aspx">Cerrar Sesion</a></li>
+                        
+                </ul>
+            </nav>
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="cphContenido" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

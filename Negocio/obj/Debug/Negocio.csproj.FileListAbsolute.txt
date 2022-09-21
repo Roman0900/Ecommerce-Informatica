@@ -1,0 +1,22 @@
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Datos.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Datos.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Negocio\obj\Debug\Negocio.pdb

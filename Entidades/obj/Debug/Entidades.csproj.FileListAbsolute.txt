@@ -1,0 +1,48 @@
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\leand\Desktop\Programacion 3\ProyectoProgramacion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\leand\Downloads\Tp-Final-2021-C1-Prog3-main\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\leand\Desktop\porqueria esta\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Espartaco\source\repos\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Adm\Desktop\Nueva carpeta\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Documents\GitHub\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\cursado 2021 1c\Prog 3\PROG3 ROMA\Proyecto Final\Proyecto Final\Tp-Final-2021-C1-Prog3\Tp Final 2021 C1 Prog3\Entidades\obj\Debug\Entidades.pdb

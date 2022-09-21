@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BaseProg3.master.cs" Inherits="Vistas.MaterPage.BaseProg3" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <link rel="Stylesheet" href="../Css/Menu.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <input type="checkbox" id="btnMenu">
+            <label for="btnMenu"></label>
+            <nav class="menu">
+                <ul>
+                        <li><a href="../ArticulosMenu.aspx">Articulos</a></li>
+                        <li><a href="../MenuProveedoresMaster.aspx">Proveedores</a></li>
+                        <li><a href="../MenuPersonasMaster.aspx">Personas</a></li>
+                        <li><a>Miscelaneo</a>
+                            <ul id="desple">
+                                <li><a href="../MenuMarcasMaster.aspx">Marcas</a></li>
+                                <li><a href="../MenuCategoriasMaster.aspx">Categorias</a></li>
+                                <li><a href="../Provincias.aspx">Provincias</a></li>
+                                <li><a href="../Ciudades.aspx">Ciudades</a></li>
+                            </ul>
+                    </li>
+                        <li><a href="../MenuFacturas.aspx">Facturas</a></li>
+                        <li><a href="../ReporteFechaAdmin.aspx">Reportes</a></li>
+                        <li><a href="../Login.aspx">Cerrar Sesion</a></li>
+                </ul>
+
+            </nav>
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="cphContenido" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

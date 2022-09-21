@@ -1,0 +1,75 @@
+﻿body {
+    background: #1db1a3;
+}
+
+.Contenedor {
+    display: flex;
+    width: 500px;
+    height: 40px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: hidden;
+   
+}
+.Contenedor  ul {
+        position: absolute;
+        list-style: none;
+        padding-left: 10px;
+        animation: cambiar 10s infinite;
+ }
+
+/*ul {
+    list-style: none;
+    padding-left: 10px;
+    animation: cambiar 7s infinite;
+}*/
+
+/*ul, p {
+    margin: 0;
+}*/
+
+@keyframes cambiar {
+
+    0% {
+        margin-top: 0;
+    }
+
+    20% {
+        margin-top: 0;
+    }
+
+    25% {
+        margin-top: -40PX;
+    }
+
+    50% {
+        margin-top: -40PX;
+    }
+
+    55% {
+        margin-top: -80PX;
+    }
+
+    80% {
+        margin-top: -80PX;
+    }
+
+    85% {
+        margin-top: -40PX;
+    }
+
+    95% {
+        margin-top: -40PX;
+    }
+
+    100% {
+        margin-top: 0;
+    }
+}

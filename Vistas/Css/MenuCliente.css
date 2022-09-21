@@ -1,0 +1,55 @@
+﻿body {
+    margin: 0;
+    font-family: Cambria;
+    color: #fff;
+    background-image: url("../Imagenes/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    width: 100%;
+    background: #1136ea
+}
+
+#btnMenu {
+    display: none;
+}
+
+header label {
+    display: none;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-right: 1px solid #fff;
+}
+
+    header label:hover {
+        cursor: pointer;
+        background: rgba(0,0,0,0.3);
+    }
+
+.menu ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+    text-align: center;
+    flex-grow: 1;
+}
+
+    .menu li:hover {
+        background: rgba(0,0,0,0.3);
+    }
+
+    .menu li a {
+        display: block;
+        padding: 15px 20px;
+        color: #fff;
+        text-decoration: none;
+    }
+
